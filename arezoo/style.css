@@ -1,0 +1,19 @@
+body {
+  background-color: cornflowerblue;
+}
+.google,
+.stack-overflow,
+.send-email {
+  font-size: 30px;
+  font-style: italic;
+  text-align: center;
+}
+
+.send-email img {
+  border-radius: 50px;
+}
+a:hover {
+  color: darkslategray;
+  font-weight: bold;
+  font-size: 40px;
+}
